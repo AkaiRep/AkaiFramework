@@ -1,6 +1,6 @@
 # AkaiFramework
 
-## Framework for backend with integrated DB until and models
+## Framework for backend with integrated DB utils and models
 
 ---
 
